@@ -17,7 +17,7 @@
     "node-nest": "^0.7.3"
   },
   "devDependencies": {
-    "eslint": "^3.19.0",
+    "eslint": "^4.19.1",
     "eslint-config-airbnb-base": "^11.1.2",
     "eslint-plugin-import": "^2.2.0"
   }
